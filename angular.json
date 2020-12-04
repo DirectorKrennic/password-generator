@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "password-generator"
+  "defaultProject": "password-generator",
+  "cli": {
+    "analytics": "90499651-7567-4b6d-b08f-324f6995ecac"
+  }
 }
